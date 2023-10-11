@@ -72,10 +72,10 @@ require (
 	github.com/stretchr/testify v1.8.2
 	github.com/zalando/go-keyring v0.2.1
 	go.uber.org/atomic v1.9.0
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.14.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.6.0
-	golang.org/x/term v0.5.0
+	golang.org/x/sys v0.13.0
+	golang.org/x/term v0.13.0
 	golang.org/x/tools v0.6.0
 	google.golang.org/genproto v0.0.0-20230303212802-e74f57abe488
 	google.golang.org/grpc v1.53.0
@@ -101,7 +101,7 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/mikesmitty/edkey v0.0.0-20170222072505-3356ea4e686a
 	golang.org/x/exp v0.0.0-20221230185412-738e83a70c30
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.17.0
 )
 
 require (
@@ -195,7 +195,7 @@ require (
 	go.uber.org/goleak v1.1.10 // indirect
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/oauth2 v0.4.0 // indirect
-	golang.org/x/text v0.8.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
